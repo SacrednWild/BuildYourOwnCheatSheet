@@ -14,4 +14,20 @@ h2 {
 
 table {
   border: 2px solid darkgreen;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: greenyellow;
+}
+
+td {
+  border-top: 1px solid darkgreen;
+}
+
+.code {
+  font-family: monospace;
+  background-color: lightgray;
+  text-align: center;
 }
